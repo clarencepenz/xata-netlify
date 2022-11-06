@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Ogenieni-Bakosi-s-workspace-e2j7sk.us-east-1.xata.sh/db/image-hub",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
